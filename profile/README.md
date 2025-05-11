@@ -1,5 +1,5 @@
-# 💀 viole(n)t — Wrocław University of Science & Technology CTF team
-Welcome to the GitHub home of **viole(n)t** (aka **C Hasztag**) — a student‑driven Capture‑the‑Flag crew that hacks for fun, research and glory.  
+# viole(n)t — Wrocław University of Science & Technology CTF team
+Welcome to the GitHub home of **viole(n)t** — a student‑driven Capture‑the‑Flag crew that hacks for fun, research and glory.  
 Here you’ll find the projects, write‑ups and cheat‑sheets that power our quests for flags and (occasionally) podiums.
 
 > **CTFTime profile:** <https://ctftime.org/team/303156>
